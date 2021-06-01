@@ -6,4 +6,5 @@ cufflinks
 plotly
 scipy
 sklearn
+bokeh
 

@@ -1,0 +1,21 @@
+"id","Catg_code","Catg_name","Catg_desciption"
+"1","ACS","Art & Craft",
+"2","AGR","Agriculture",
+"3","BUS","Business studies",NULL
+"4","CHM","Chemistry",NULL
+"5","COM","Computer Studies",
+"6","ENG","English studies",NULL
+"7","HMS","Home Schience ",NULL
+"8","KIS","Kiswahili",NULL
+"9","MAT","Mathematics",NULL
+"10","MNL","Manuals",NULL
+"11","MSC","Music",NULL
+"12","PEC","Physical Education",NULL
+"13","PHY","Physics",NULL
+"14","PRD","Periodicals",NULL
+"15","RES","Religeous Studies",NULL
+"16","RPT","Reports",NULL
+"17","SCI","Science",NULL
+"18","SST","Social Studies",NULL
+"19","STA","Statistics",NULL
+"25","BIO","Biology",

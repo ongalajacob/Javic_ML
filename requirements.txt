@@ -1,1 +1,10 @@
 streamlit
+matplotlib
+numpy
+seaborn
+cufflinks
+plotly
+scipy
+sklearn
+pickle
+warnings

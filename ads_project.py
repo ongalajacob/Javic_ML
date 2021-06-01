@@ -36,21 +36,13 @@ import warnings
 
 ########################### Display text ###########################################
 
-#student = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/student.csv'
-#class_session = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/class_session.csv'
-#classregister = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/classregister.csv'
-#invoice = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/invoice.csv'
-#employees = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/employees.csv'
-#fees = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/fees.csv'
-#exams = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/exams.csv'
-
-student = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_student.csv'
-class_session = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_class_session.csv'
-classregister = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_classregister.csv'
-invoice = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_invoice.csv'
-employees = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_employees.csv'
-fees = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_fees.csv'
-exams = 'https://raw.githubusercontent.com/ongalajacob/Javic/main/2021_data/javicjun_schms_table_exams.csv'
+student = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_student.csv'
+class_session = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_class_session.csv'
+classregister = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_classregister.csv'
+invoice = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_invoice.csv'
+employees = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_employees.csv'
+fees = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_fees.csv'
+exams = 'https://raw.githubusercontent.com/ongalajacob/Javic_ML/main/2021_data/javicjun_schms_table_exams.csv'
 #model ='https://github.com/ongalajacob/Javic/blob/main/API/Javic_prediction_model.pkl'
 
 def main():

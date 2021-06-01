@@ -192,9 +192,8 @@ def main():
         st.markdown("* Study the student population (interm of gender, grade, term and year)")
         st.markdown("* Monitor fee collection  and establish fee balance status")
         st.markdown("* Report on students perormance  ")
-        st.markdown("* Cluster subjects according to Students performance")
-        st.markdown("* Categorize students in their fee payment behaviors and academic perofmance to help in restructuring future admission creteria")
-
+        st.markdown("* Predict students performances based on other collected features ")
+        
 
         st.markdown("**Methodology**")
         methods="""

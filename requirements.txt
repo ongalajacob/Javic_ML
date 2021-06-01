@@ -1,16 +1,1 @@
 streamlit
-pandas
-altair
-numpy
-matplotlib.pyplot
-plotly.figure_factory
-os
-seaborn
-cufflinks
-plotly.express 
-plotly.graph_objects 
-requests
-io  
-stats
-pickle
-warnings

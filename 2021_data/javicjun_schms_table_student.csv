@@ -1,7 +1,7 @@
 "ID","name","ADM","Mother","Father","Guadian","DOB","sex","Class_Admitted","PHONE1","PHONE2","PHONE3","DOA","address","EnrolStatus","DateExit"
 "763","Michael Gift Otieno","1","Vivian Awuor","Jacob Otieno","XXXX","2013-06-22","Female","Baby","0710945685","0710332465","0733332465","2015-12-27","6500 Kondele","In_Session","2020-12-03"
 "764","Tashy Vivian Mboya","2","Not Stated","Jared Okoth Mboya","XXXXX","2012-08-28","Female","Baby","706701795","705696900","XXXXX","2015-12-31","XXXXX","In_Session",NULL
-"765","Moses Odhiambo Otieno","3","Ester Akinyi","Joseph Otieno","XXXXX","2008-12-07","Male","PP2","706195829","727201459","XXXXX","2016-01-01","XXXXX","exits","2020-01-01"
+"765","Moses Odhiambo Otieno","3","Ester Akinyi","Joseph Otieno","XXXXX","2008-12-07","Male","PP2","0706195829","0727201459","XXXXX","2016-01-01","XXXXX","exits","2020-01-01"
 "766","Ann Brenda Achieng","4","Ester Akinyi","Joseph Otieno","XXXXX","2012-07-27","Female","Baby","706195829","727201459","XXXXX","2016-01-01","XXXXX","exits","2020-01-01"
 "767","Michael Odhiambo Awuor","5","Consolata Akinyi","Not Stated","XXXXX","2009-11-05","Male","PP1","706281363","XXXXX","XXXXX","2016-01-04","XXXXX","In_Session",NULL
 "768","Brilian Anyango","6","Rose Judith","Not Stated","XXXXX","2012-10-04","Female","Baby","XXXXX","XXXXX","XXXXX","2016-01-04","XXXXX","In_Session",NULL
@@ -210,7 +210,7 @@
 "971","Idah Mary Atieno","209","Caren Juma","Not Stated",NULL,"2008-11-05","Female","Grade3","717665875","716873746",NULL,"2018-08-29",NULL,"In_Session",NULL
 "972","Emmanuel Ochieng Juma","210","Caren Juma","Not Stated",NULL,NULL,"Male","Baby","717665875",NULL,NULL,"2018-08-29",NULL,"In_Session",NULL
 "973","Dalmus Ojwang Odhiambo","211","Judith Anyango","george Odhiambo",NULL,"2012-12-31","Male","PP1","726226102","713978485",NULL,"2018-08-29",NULL,"In_Session",NULL
-"974","Dylia Sophy Odhiambo","212","Judith Anyango Odhiambo","Not Stated",NULL,"2019-11-14","Female","Grade2","726226102","713978485",NULL,"2018-08-29",NULL,"In_Session",NULL
+"974","Dylia Sophy Odhiambo","212","Judith Anyango Odhiambo","Not Stated","XXXXX","2019-11-14","Female","Grade2","0726226102","0713978485","XXXXX","2018-08-29",NULL,"In_Session",NULL
 "975","Delan Charles Odhiambo","213","Judith Anyango Odhiambo","George Odhiambo",NULL,"2009-11-15","Male","Grade2","726226102","713978485",NULL,"2018-08-29",NULL,"In_Session",NULL
 "976","Gerald James Oboo","214","Langi Vivian Akinyi","George Oboo",NULL,NULL,NULL,"Baby","729788622","721299253",NULL,"2018-09-03",NULL,"In_Session",NULL
 "977","Maxwell Samson Oboo","215","Langi Vivian Akiyi","George Oboo",NULL,NULL,"Male","PP1","729788622","721299353",NULL,"2018-09-03",NULL,"In_Session",NULL
@@ -255,7 +255,7 @@
 "1016","Olivia Akinyi Odhiambo","254","Miriam Shitubi","Elija Odhiambo",NULL,NULL,"Female","Baby","734078827","702817462",NULL,"2019-01-09",NULL,"In_Session",NULL
 "1017","Byron John Onyango","255","Jane Akendo","Not Stated",NULL,"2012-01-01","Male","Grade1","710602149",NULL,NULL,"2019-01-09",NULL,"In_Session",NULL
 "1018","Joseph Michael","256","Marion Munira","Not Stated",NULL,"2018-12-17","Male","PP1","736620777",NULL,NULL,"2019-01-09",NULL,"exits","2021-01-09"
-"1019","Purity Carol Otieno","257","Vivian Awuor","Jacob Ongala",NULL,"2017-04-13","Female","Baby","710945685","710332465","733332465","2019-01-09",NULL,"In_Session",NULL
+"1019","Purity Carol Otieno","257","Vivian Awuor","Jacob Ongala","XXXXX","2017-04-13","Female","Baby","0710945685","0710332465","0733332465","2019-01-09",NULL,"In_Session",NULL
 "1020","Collins Onyango Omondi","258","Charity Auma Omondi","James Omondi",NULL,"2014-09-15","Male","Baby","725275060","719124445",NULL,"2019-01-11",NULL,"In_Session",NULL
 "1021","Isaac Brandy Ndale","259","Sara MmbGrade1","Not Stated",NULL,"2015-04-21","Male","Baby","711881314","720976692",NULL,"2019-01-14",NULL,"In_Session",NULL
 "1022","Graffins Omondi Otieno","260","Sheila Auma","George",NULL,NULL,"Male","PP2","746375421",NULL,NULL,"2019-01-14",NULL,"In_Session",NULL
@@ -304,7 +304,7 @@
 "1065","Browlyne Lupita Otieno","303","YvGrade1 BeatriceAdino","George Otieno",NULL,"2014-08-08","Female","PP1","795161954","727554321",NULL,"2019-09-04",NULL,"In_Session",NULL
 "1066","Annex Joseph Otieno","304","Roseline Akong'o","Not Stated",NULL,"2013-05-07","Male","PP1","724910104","796461271",NULL,NULL,NULL,"In_Session",NULL
 "1067","Peter Pokoit Simiyu","305","Murenga Zeitun","Evans Simiyu",NULL,"2014-05-10","Male","Baby","710850670","724790399",NULL,"2019-09-10",NULL,"In_Session",NULL
-"1068","Bill Farrel Otieno","306","Berryl Awuor","Not Stated",NULL,"2011-08-17","Male","Grade1","792850240","735162271",NULL,"2019-09-30",NULL,"In_Session",NULL
+"1068","Bill Farrel Otieno","306","Berryl Awuor","Not Stated","XXXXX","2011-08-17","Male","Grade1","0792850240","0735162271","XXXXX","2019-09-30",NULL,"In_Session",NULL
 "1069","Benard Odhiambo","307","Not Stated","Not Stated",NULL,NULL,"Male","Baby",NULL,NULL,NULL,"2020-01-06",NULL,"In_Session",NULL
 "1070","Sachyl Blessed Oweya","308","Lilian Nyongesa","Edwin Shikanda",NULL,"2012-12-26","Female","Grade2","720661180","716290185",NULL,"2019-12-04",NULL,"In_Session",NULL
 "1071","Levi Kiptoo Mosop","309","Lilian Nyongesa","Silas Kiptoo",NULL,"2016-10-08","Male","Baby","720661180","721853220",NULL,"2019-12-04",NULL,"In_Session",NULL
@@ -374,9 +374,9 @@
 "1135","Kyla Gumba Onyango","373","Not Stated","Not Stated",NULL,NULL,NULL,"Baby",NULL,NULL,NULL,"2020-01-27",NULL,"In_Session",NULL
 "1136","Laura Awino Omollo","374","Lilian Adhiambo","Josua Omollo",NULL,NULL,"Female","Baby","702899052","710646020",NULL,"2020-02-02",NULL,"In_Session",NULL
 "1137","Harriet Atieno Oloo","375","Minica Achieng'","Not Stated",NULL,"2016-06-12","Female","Baby","718471179","752069629",NULL,NULL,NULL,"In_Session",NULL
-"1138","Elizabeth Chebet","376","Jackline Adhiambo","Not Stated",NULL,"2013-05-13","Female","PP2","711162880",NULL,NULL,"2020-02-10",NULL,"In_Session",NULL
-"1139","Isaac Omondi Onyango","377","Christine Awino Ogemba","Not Stated",NULL,"2012-12-10","Male","Grade2","723682629","721335734",NULL,"2020-02-24",NULL,"In_Session",NULL
-"1140","Bernard Odhiambo Okello","378","Maurine Akinyi Opiyo","Not Stated",NULL,"2010-12-25","Male","Grade3","718905878","732261350",NULL,NULL,NULL,"In_Session",NULL
+"1138","Elizabeth Chebet","376","Jackline Adhiambo","Not Stated","XXXXX","2013-05-13","Female","PP2","0711162880","XXXXX","XXXXX","2020-02-10",NULL,"In_Session",NULL
+"1139","Isaac Omondi Onyango","377","Christine Awino Ogemba","Not Stated","XXXXX","2012-12-10","Male","Grade2","0723682629","0721335734","XXXXX","2020-02-24",NULL,"In_Session",NULL
+"1140","Bernard Odhiambo Okello","378","Maurine Akinyi Opiyo","Not Stated","XXXXX","2010-12-25","Male","Grade3","0718905878","0732261350","XXXXX",NULL,NULL,"In_Session",NULL
 "1141","Leonidah Daizy Awino","379","Maurine Akinyi Okello","Not Stated",NULL,NULL,"Female","Baby","706051157","718905887",NULL,"2020-03-02",NULL,"In_Session",NULL
 "1143","Camilah Patient Cherotich","380","Faith Chepkorir Mugun","Zakaria Kitipiosi","XXXXX","2014-01-01","Female","Grade 1","0729009131","0719553977","XXXXX.","2021-01-01","108 Miwani","In_Session",NULL
 "1144","Shana Mary Ochieng","381","Josphine Anyango","Michael Ochieng","XXXXX","2015-12-23","Female","Baby","0721162390","0797599961","XXXXX.","2021-01-02","1224","In_Session",NULL
@@ -442,4 +442,4 @@
 "1207","David Junior Omondi","442","Lavender Akoth Omondi","David Omondi","XXXXX","1111-11-11","Male","Baby","0705412170","XXXXX","XXXXX.","2021-05-17","6500","In_Session",NULL
 "1208","Rachael Ntabo","443","Jackline Amoit","John Albert Monyorwa","XXXXX","2014-10-13","Female","Grade 1","0717506310","0715544448","XXXXX.","2021-05-17","6500","In_Session",NULL
 "1209","Malcolm Max Otieno","444","Mary Akinyi Otieno","XXXXX","Jacob Ng'ong'a","2016-11-22","Male","Baby","0740816989","0724720009","XXXXX.","2021-05-18","510-40100","In_Session",NULL
-"1210","LauraDorris Achieng Osewe","445","Florens Auma Osewe","Salmon Osewe Jackoyo","XXXXX","2016-03-31","Female","Baby","0710768467","0724648513","XXXXX.","2021-05-21","6500","In_Session",NULL
+"1210","LauraDorris Achieng Osewe","445","Florens Auma Osewe","Salmon Osewe Jackoyo","XXXXX","2016-03-31","Female","Baby","0710768467","0724648513","XXXXX","2021-05-21","6500","In_Session",NULL

@@ -222,7 +222,7 @@
 "983","Lin Ochieng Ogosy","221","Millicent Akinyi","wickliff Ogosi",NULL,NULL,"Male","Grade1","728813680","718760217",NULL,"2018-09-03",NULL,"In_Session",NULL
 "984","Jayden Dillan Owuor","222","Ruth Apiyo Owuor","Caren Akth omondi",NULL,NULL,"Male","Baby","714726939","726728722",NULL,"2018-10-04",NULL,"In_Session",NULL
 "985","Solomon Bravin Omondi","223","Sharon Belinda","Not Stated",NULL,"2014-02-24","Male","PP1","711167967",NULL,NULL,"2018-12-22",NULL,"In_Session",NULL
-"986","Rose Malaika Anyango","224","Emma Emily Atieno","Not Stated",NULL,"2015-12-29","Female","Baby","725703873","718496373",NULL,"2018-12-28",NULL,"In_Session",NULL
+"986","Malaika Rose  Anyango","224","Emma Emily Atieno","Not Stated","XXXXX","2015-12-29","Female","Baby","725703873","718496373","XXXXX","2018-12-28","XXXXX","In_Session",NULL
 "987","Hillary Ignatius Odhiambo","225","Miriam Achieng' Marango","Not Stated",NULL,"2012-08-31","Male","Grade1","720826441",NULL,NULL,"2018-12-29",NULL,"In_Session",NULL
 "988","Katheryn Fejenia Wanyama","226","Nancy Wandera","homas Jomo",NULL,"2010-06-18","Female","Grade3","725529479","721365159",NULL,"2019-01-02",NULL,"In_Session",NULL
 "989","Randy Martins Jombo","227","Molynter Adhiambo","Fredrick Jombo",NULL,"2012-08-31","Male","Grade1","705662622","703439762",NULL,"2019-01-02",NULL,"In_Session",NULL
@@ -247,7 +247,7 @@
 "1008","Bless Hellen Odiwuor","246","Regina Anyango","Not Stated",NULL,"2016-05-21","Female","Baby","723786279","712318656",NULL,"2019-01-07",NULL,"In_Session",NULL
 "1009","Keila Babra Jowi","247","Sylvia Akech Jowi","Not Stated",NULL,"2013-03-30","Female","Grade1","707118306",NULL,NULL,"2019-01-07",NULL,"In_Session",NULL
 "1010","Tom Omollo Jowi","248","Sylvia Akech","Jeronimus Jowi",NULL,"2015-09-15","Male","Baby","707118206","722453321",NULL,"2019-01-07",NULL,"In_Session",NULL
-"1011","Brashel Atieno","249","Everlyne Atieno","David Ouma",NULL,"2019-01-07","Female","PP1","714585916","712219300",NULL,"2019-01-07",NULL,"In_Session",NULL
+"1011","Brashel Atieno","249","Everlyne Atieno","David Ouma",NULL,"2019-01-07","Female","PP1","714585916","712219300",NULL,"2019-01-07",NULL,"exits","2021-05-04"
 "1012","Ashley Sharneez Joy Omondi","250","Doreen Akinyo","Fredrick Omondi",NULL,"2016-08-16","Female","Baby","713555120","705843680",NULL,"2019-01-08",NULL,"In_Session",NULL
 "1013","Mella Trizer Nyerere","251","Mackline Ogolla","Not Stated",NULL,"2015-04-12","Female","PP1","721821418","706920228",NULL,"2019-01-08",NULL,"In_Session",NULL
 "1014","Meths Rino Nyagol","252","Mary Mayi","Not Stated",NULL,"2010-07-23","Male","Grade3","728088439",NULL,NULL,"2019-01-08",NULL,"In_Session",NULL
@@ -410,7 +410,7 @@
 "1173","Ann Purity Adhiambo","410","Phoebe Aketch Odhiambo","Vitalis Odhiambo","XXXXX","1111-01-01","Female","Baby","0700626074","0723643812","XXXXX.","2021-01-11","6500","In_Session",NULL
 "1174","Wicofred Wilkince Odote","411","Irene Chepchirchir Odote","Elijah Odote","XXXXX","2012-09-30","Male","Grade 2","0724987637","0725121744","XXXXX.","2021-01-11","6500","In_Session",NULL
 "1175","Arshley Barca Odote","412","Irene Jepchirchir","Elijah Odote","XXXXX","2012-09-30","Female","Grade 2","0724987637","0725121744","XXXXX.","2021-01-11","6500","exits","2021-06-18"
-"1176","Malika Helda Adhiambo","413","Irene Chepchirchir","Elijah Odote","XXXXX","2015-06-11","Female","PP2","0724987637","0725121744","XXXXX.","2021-01-11","6500","In_Session",NULL
+"1176","Malika Helda Adhiambo","413","Irene Chepchirchir","Elijah Odote","XXXXX","2015-06-11","Female","PP2","0724987637","0725121744","XXXXX.","2021-01-11","6500","exits","2021-05-03"
 "1177","Easther Awino Odhiambo","414","Emilly  Adhiambo","Paul Odhiambo","XXXXX","2017-07-11","Female","Baby","0710926050","0724220718","XXXXX.","2021-01-12","6500","In_Session",NULL
 "1178","Solomon Ochieng Odhiambo","415","Emilly Adhiambo","Paul Odhiambo","XXXXX","2013-01-11","Male","Grade 1","0710926050","0721220718","XXXXX.","2021-01-12","6500","In_Session",NULL
 "1179","Christian Joel","416","Charity Wairimu","XXXXX","Monica Wangui","2017-02-04","Male","Baby","0792162240","0714814646","XXXXX.","2021-01-13","6500","In_Session",NULL

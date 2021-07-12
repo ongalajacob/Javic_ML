@@ -1,0 +1,4 @@
+"id","staffID","startDate","EndDate","LeaveCategory","Reason","Approval","HTComment"
+"2","106","2021-05-15","2021-07-17","Sick-Self","Not Known","Not yet Approved","Has not reported to work since the accident"
+"3","110","2021-07-09","2021-07-10","Sick-Child","Taking child to hospital","Approved by manager","Approved"
+"4","79","2021-07-12","2021-07-13","Sick-Child","Taking child to hospital","Approved by Director","Approved"
